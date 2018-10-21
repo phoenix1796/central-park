@@ -1,0 +1,16 @@
+{
+  "name": "central-park",
+  "version": "1.0.0",
+  "description": "Central server",
+  "main": "server.js",
+  "scripts": {
+    "start":"nodemon start",
+    "test": "\"Nuuuuuu\""
+  },
+  "author": "phoenix1796",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "hapi": "^17.5.4",
+    "nodemon": "^1.18.4"
+  }
+}
